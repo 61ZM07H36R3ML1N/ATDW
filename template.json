@@ -1,0 +1,91 @@
+{
+    "Actor": {
+        "types": [
+            "character",
+            "npc",
+            "ship"
+        ],
+        "character" {
+            "info": {
+                "Name": "",
+                "Origin":"",
+                "Background": "",
+                "Level":0,
+                "Stress":"",
+                "Nervous Tic":"",
+                "Wounds":"",
+                "Skills":"",
+                "Talents":"",
+                "Emotional State":"",
+                "Emotional Modifiers":""
+            },
+            "Primary Attributes": {
+                "strength": {
+                    "value":8,
+                    "modified":0,
+                    "label": "Strength",
+                    "type": "number"
+                },
+                    "dexterity": {
+                        "value":8,
+                        "modified":0,
+                        "label": "Dexterity",
+                        "type": "number"
+                    },
+                    "constitution": {
+                        "value":8,
+                        "modified":0,
+                        "label": "Constitution",
+                        "type": "number"
+                    },
+                    "will": {
+                        "value":8,
+                        "modified":0,
+                        "label": "Will",
+                        "type": "number"
+                    },
+                    "intelligence": {
+                        "value":8,
+                        "modified":0,
+                        "label": "Intelligence",
+                        "type": "number"
+                    },
+                    "charisma": {
+                        "value":8,
+                        "modified":0,
+                        "label": "Charisma",
+                        "type": "number"
+                    }
+            },
+            "Secondary Attributes": {
+                "luck": {
+                    "value":3,
+                    "modified":0,
+                    "label": "Luck",
+                    "type": "number"
+                },
+                "stamina": {
+                    "value":10,
+                    "modified":0,
+                    "label": "Stamina",
+                    "type": "number"
+                },
+                "stress": {
+                    "value":0,
+                    "modified":0,
+                    "label": "Stress",
+                    "type": "number"
+                },
+                "wounds": {
+                    "value":0,
+                    "modified":0,
+                    "label": "Wounds",
+                    "type": "number"
+                },
+                ""
+            }
+                }
+            }
+        }
+    }
+}
